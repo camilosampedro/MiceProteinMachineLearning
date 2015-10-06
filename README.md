@@ -1,1 +1,1 @@
-# MiceProteinNetwork
+# MiceProteinNeuralNetwork
